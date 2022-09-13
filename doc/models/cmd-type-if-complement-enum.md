@@ -1,0 +1,24 @@
+
+# Cmd Type If Complement Enum
+
+## Enumeration
+
+`CmdTypeIfComplementEnum`
+
+## Fields
+
+| Name |
+|  --- |
+| `STARTPROCESS` |
+| `STARTCURRENTTASKPROCESS` |
+| `RECOVERTOLERANCEFAULTPROCESS` |
+| `RECOVERSUSPENDEDPROCESS` |
+| `STARTFAILURETASKPROCESS` |
+| `COMPLEMENTDATA` |
+| `SCHEDULER` |
+| `REPEATRUNNING` |
+| `PAUSE` |
+| `STOP` |
+| `RECOVERWAITINGTHREAD` |
+| `RECOVERSERIALWAIT` |
+
